@@ -51,10 +51,9 @@ As an aspiring cybersecurity professional, I developed this project to strengthe
 
 ```
 Password-Strength-Checker/
-│
-├── password_checker.py
-├── README.md
-└── screenshots/
+screenshots/
+password_checker.py
+README.md
 ```
 
 ---
