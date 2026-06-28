@@ -50,8 +50,8 @@ As an aspiring cybersecurity professional, I developed this project to strengthe
 ##  📁 Project Structure
 
 ```
-Password-Strength-Checker/
-screenshots/
+Password-Strength-Checker
+screenshots
 password_checker.py
 README.md
 ```
