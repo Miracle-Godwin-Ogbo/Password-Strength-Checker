@@ -33,9 +33,9 @@ As an aspiring cybersecurity professional, I developed this project to strengthe
 - Detects special characters.
 - Identifies commonly used passwords.
 - Automatically classifies common passwords as **Weak**.
--  Calculates a password strength score (0–5).
--  Categorizes passwords as **Weak**, **Medium**, or **Strong**.
--  Provides security recommendations for improving weak passwords.
+- Calculates a password strength score (0–5).
+- Categorizes passwords as **Weak**, **Medium**, or **Strong**.
+- Provides security recommendations for improving weak passwords.
 ---
 
 
@@ -50,11 +50,10 @@ As an aspiring cybersecurity professional, I developed this project to strengthe
 ##  📁 Project Structure
 
 ```
-Password-Strength-Checker/
-│
-├── password_checker.py
-├── README.md
-└── screenshots/
+Password-Strength-Checker
+screenshots
+README.md
+password_checker.py
 ```
 
 ---
@@ -120,7 +119,7 @@ The screenshots below demonstrate the project running successfully on Kali Linux
 
 ```text
 =========================================
-      PASSWORD STRENGTH CHECKER
+      **PASSWORD STRENGTH CHECKER**
 =========================================
 
 Password Length : 12
