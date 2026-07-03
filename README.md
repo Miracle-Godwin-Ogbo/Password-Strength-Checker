@@ -97,6 +97,12 @@ The screenshots below demonstrate the project running successfully on Kali Linux
 
 ---
 
+### Common Password Assessment
+![Common Password](Screenshots/Common_Password_Kali.png)
+
+---
+
+
 ### Weak Password Assessment
 
 ![Weak Password](Screenshots/Weak_Password_Kali.png)
