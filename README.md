@@ -58,21 +58,61 @@ Password-Strength-Checker/
 ```
 
 ---
-
 ## ▶️ How to Run
 
-1. Clone or download this repository.
-2. Open the project folder in Visual Studio Code.
-3. Make sure Python 3 is installed.
-4. Open the terminal.
-5. Run the following command:
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Miracle-Godwin-Ogbo/Password-Strength-Checker.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd Password-Strength-Checker
+```
+
+### 3. Run the program
+
+**Linux (Kali Linux, Ubuntu, Debian, etc.)**
+
+```bash
+python3 password_checker.py
+```
+
+**Windows**
 
 ```bash
 python password_checker.py
 ```
 
-6. Enter a password when prompted.
-7. Review the password strength and recommendations.
+---
+
+## 🐉 Running the Project on Kali Linux
+
+The screenshots below demonstrate the project running successfully on Kali Linux.
+
+### Successfully Cloning the Repository
+
+![Successfully Cloning](Screenshots/Successfully_Cloning_Kali.png)
+
+---
+
+### Weak Password Assessment
+
+![Weak Password](Screenshots/Weak_Password_Kali.png)
+
+---
+
+### Medium Password Assessment
+
+![Medium Password](Screenshots/medium_password_kali.png)
+
+---
+
+### Strong Password Assessment
+
+![Strong Password](Screenshots/strong_password_Kali.png)
 
 ---
 
